@@ -26,8 +26,8 @@ The challenge is to build out this English Dictionary using JavaScript that can 
 
 - JavaScript
 - [Free Dictionary API](https://dictionaryapi.dev/)
-  -html
-  -Css
+- html
+- Css
 
 ## Author
 
