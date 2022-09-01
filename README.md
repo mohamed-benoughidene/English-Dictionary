@@ -12,7 +12,7 @@ This is an [English Dictionary.](https://www.figma.com/community/file/1119570033
 
 ## Overview
 
-The challenge is to build out this English Dictionary using JavaScript that can give the user any word definitions.
+The challenge is to build out this English Dictionary using JavaScript that can give the user any word definitions and turns text to speach.
 
 ### Screenshot
 
